@@ -1,0 +1,22 @@
+.head {
+  position: absolute;
+}
+.top {
+  padding-top: 50px;
+  padding-left: 100px;
+  font-size: 50px;
+  color: rgb(11, 10, 10);
+  margin: 0 2rem;
+}
+.cards {
+  padding: 50px;
+}
+.row {
+  display: flex;
+  padding: 30px;
+}
+
+.ca {
+  padding: 50px;
+  margin: 50px;
+}
