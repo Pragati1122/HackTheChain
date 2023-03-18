@@ -1,0 +1,76 @@
+.container {
+    position: absolute;
+  }
+.subContainer{
+    display:flex;
+    padding-left:10px;
+}
+.logo {
+    font-size: 30px;
+    color: rgb(11, 10, 10);
+    margin: 0 2rem;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+.head{
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    width:360px;
+    align-items:center;
+}
+.form {
+    height: 400px;
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+  
+    /* justify-content: space-around; */
+  }
+.content {
+    justify-content: space-between;
+    /* align-items: center; */
+  }
+.desc {
+    padding-top: 20px;
+    font-size: 15px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+.img{
+    /* right: 0; */
+    height : 100rem;
+    width : 100rem;
+}
+input{
+    height: 5px;
+}
+.drop{
+    padding-top : 25px;
+    padding-bottom : 8px;
+    padding-left: 0;
+    width: 400px;
+}
+.leftPart{
+
+}
+.btn1{
+    margin-top: 20px;
+    /* margin-left: 70px; */
+    width: 400px;
+    height: 45px;
+    border-radius: 5px;
+    background-color:  white;
+    
+}
+.btn2{
+    margin-top: 20px;
+    /* margin-left: 70px; */
+    width: 400px;
+    height: 45px;
+    border-radius: 5px;
+    background-color:  hsl(41, 92%, 63%);
+    
+}
+
