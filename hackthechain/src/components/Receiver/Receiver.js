@@ -11,8 +11,11 @@ export default function Receiver() {
         <div className={styles.first}>Hey Vidya Devi!</div>
         <div className={styles.form}>
           <div className={styles.content}>
-            <div className={styles.desc}>Description</div>
-            <div className={styles.bitton1}>
+            <div className={styles.desc}>Add your Description here:-</div>
+            <label>
+              <input type="text" />
+            </label>
+            <div className={styles.button1}>
               <button>Update Description</button>
             </div>
             <div className={styles.button2}>

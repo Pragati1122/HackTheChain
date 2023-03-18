@@ -21,7 +21,7 @@ export default function Navbars() {
             <div>About Us</div>
           </li>
           <li>
-            <div>About Us</div>
+            <div>LOGOUT</div>
           </li>
         </ul>
       </nav>
