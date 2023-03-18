@@ -10,19 +10,37 @@ export default function Donor() {
         <div className={styles.top}>Donation Requests</div>
         <div className={styles.cards}>
           <div className={styles.row}>
-            <Card className={styles.ca} />
-            <Card className={styles.ca} />
-            <Card className={styles.ca} />
+            <div className={styles.ca}>
+              <Card />
+            </div>
+            <div className={styles.ca}>
+              <Card />
+            </div>
+            <div className={styles.ca}>
+              <Card />
+            </div>
           </div>
           <div className={styles.row}>
-            <Card className={styles.ca} />
-            <Card className={styles.ca} />
-            <Card className={styles.ca} />
+            <div className={styles.ca}>
+              <Card />
+            </div>
+            <div className={styles.ca}>
+              <Card />
+            </div>
+            <div className={styles.ca}>
+              <Card />
+            </div>
           </div>
           <div className={styles.row}>
-            <Card className={styles.ca} />
-            <Card className={styles.ca} />
-            <Card className={styles.ca} />
+            <div className={styles.ca}>
+              <Card />
+            </div>
+            <div className={styles.ca}>
+              <Card />
+            </div>
+            <div className={styles.ca}>
+              <Card />
+            </div>
           </div>
         </div>
       </div>

@@ -9,8 +9,8 @@ function App() {
     <>
       {/* <Seller /> */}
       {/* <Receiver /> */}
-      {/* <Dashboard /> */}
-      <Donor />
+      <Dashboard />
+      {/* <Donor /> */}
     </>
   );
 }

@@ -10,6 +10,14 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.navbar2 {
+  height: 80px;
+  /* background-color: #142424; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f7c04a;
+}
 
 .logo {
   font-size: 30px;
@@ -31,6 +39,24 @@ body {
 }
 
 .navbar ul li a:hover {
+  color: #00bd57;
+  font-size: 17px;
+}
+
+.navbar2 ul {
+  margin: 0 2rem;
+  display: flex;
+  align-items: center;
+}
+.navbar2 ul li {
+  color: rgb(7, 7, 7);
+  margin-left: 1rem;
+  list-style: none;
+  text-decoration: none;
+  animation: all 0.3s ease;
+}
+
+.navbar2 ul li a:hover {
   color: #00bd57;
   font-size: 17px;
 }
