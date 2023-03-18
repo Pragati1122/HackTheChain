@@ -7,6 +7,10 @@ export default function Dashboard() {
   return (
     <>
       <Navbars />
+      <div className={styles.main}>
+        <div className={styles.text}>Help Healing your Community</div>
+        <button className={styles.button3}>SIGN UP</button>
+      </div>
     </>
   );
 }

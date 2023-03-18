@@ -1,0 +1,24 @@
+.main {
+  position: absolute;
+  padding-top: 100px;
+  padding-left: 200px;
+  font-size: 70px;
+  color: rgb(11, 10, 10);
+  /* margin: 0 2rem; */
+}
+
+.text {
+  width: 400px;
+  color: white;
+}
+.button3 {
+  /* margin-left: 10px; */
+  background-color: #f7c04a;
+  height: 50px;
+  font-size: large;
+}
+.main {
+  background-image: url("../../../public/pic.png");
+  width: 1440px;
+  height: 600px;
+}
